@@ -31,7 +31,6 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build && vercel --prod"
   },
-  "homepage": "https://tech-mindmap-app.vercel.app",
   "eslintConfig": {
     "extends": [
       "react-app",
